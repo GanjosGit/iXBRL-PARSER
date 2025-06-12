@@ -1,7 +1,7 @@
 
 
 Access API: https://developer.company-information.service.gov.uk/get-started/
-Use depository: https://download.companieshouse.gov.uk/en_monthlyaccountsdata.html
+Use repository: https://download.companieshouse.gov.uk/en_monthlyaccountsdata.html
 
 Run in sequence:
 
